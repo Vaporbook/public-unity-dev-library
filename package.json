@@ -1,5 +1,5 @@
 {
-    "name": "org.vaporbook.asm-helper-lib",
+    "name": "org.vaporbook.unity.helpers",
     "version": "1.0.0",
     "displayName": "ASM Unity helper library",
     "description": "ASM's library of Unity scripts",
