@@ -5,7 +5,6 @@ using UnityEngine;
 namespace Vaporbook.UnityTools {
 
     // CenteredTerrain will create a terrain and center it in the view
-
     public static class CenteredTerrain
     {
         // Start is called before the first frame update
