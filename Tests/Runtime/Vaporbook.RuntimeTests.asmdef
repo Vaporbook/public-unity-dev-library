@@ -1,0 +1,7 @@
+{
+	"name": "Vaporbook.Tests",
+    "references": ["Vaporbook.UnityTools"],
+    "optionalUnityReferences": ["TestAssemblies"],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

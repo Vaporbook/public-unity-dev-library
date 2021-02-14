@@ -16,4 +16,22 @@ namespace Vaporbook.UnityTools {
             map.transform.position = vector3;
         }
     }
+
+    public static class Transforms
+    {
+        public static GameObject centerInWorld(GameObject gameObject)
+        {
+            Vector3 offsetCoords = new Vector3(-gameObject.size.x / 2, -gameObject.size.z / 2);
+            gameObject.transform.position = offsetCoords;
+            return gameObject;
+        }
+    }
+
+    public static class Utils
+    {
+        public static void doStuff()
+        {
+            return;
+        }
+    }
 }

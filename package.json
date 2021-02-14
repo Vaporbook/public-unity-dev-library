@@ -1,9 +1,10 @@
-{
+{ 
     "name": "vaporbook.unity-tools",
     "version": "1.0.0",
     "displayName": "ASM Unity helper library",
     "description": "ASM's library of Unity scripts",
-    "dependencies": [],
+    "dependencies": {},
+    "testables": [],
     "keywords": ["scripts"],
     "author": {
         "name": "ASM"
